@@ -1,0 +1,8 @@
+DISCIPLINA: ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES
+ALUNO: PHILIP MAHAMA AKPANYI
+
+Descrição:
+O objetivo da empresa é oferecer manutenção e reparos de computadores na UFRR num custo diferenciado.
+Através de fechamento de parcerias com algumas empresas fornecedores (Lenovo, IBM, HP, etc) num custo baixo devido a compra a granel de alguns componentes.
+
+A empresa terá seus lucros através de pagamento de serviços, venda de componentes de computadores e recebimento de serviços pelos alunos estagiários que serão treinados a trabalhar para a empresa sob a supervisão de um técnico profissional 
